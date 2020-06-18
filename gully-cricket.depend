@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1592454394 source:e:\programming-workspace\gully-cricket\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+
