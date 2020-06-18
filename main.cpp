@@ -89,6 +89,8 @@ void choosebatsman(Team& a){
     cout<<"\nyou have chosen \t "<< a.playerThree <<" \t as your batsmen \n";
     }
 }
+
+
 void choosebowler(Team& b){
     usleep(1000000);
     cout<<"\n Choose Your bowler from\t"<<b.teamName<<"\tpress 1,2,3 : \n";
